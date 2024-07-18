@@ -42,5 +42,5 @@ Notebooks created with Jupyter Notebook, please use it for better reading experi
     6.2 Searching and Sorting Algorithms<br>
     6.3 Problem Set 6<br>
 
-7. Plotting
+7. Plotting<br>
     7.1 Plotting
